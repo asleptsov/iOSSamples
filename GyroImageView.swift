@@ -1,9 +1,7 @@
 //
 //  GyroImageView.swift
-//  newQ8App
 //
-//  Created by Anton Sleptsov on 26/07/17.
-//  Copyright © 2017 Anton Sleptsov. All rights reserved.
+//  Created by Anton Sleptsov
 //
 
 import Foundation
